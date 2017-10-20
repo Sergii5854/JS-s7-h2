@@ -50,8 +50,8 @@ function res( data ){
 };// end res function 
 
 
-// console.log("result is: ", res(a) , "a - result must be 10");
-// console.log("result is: ", res(b), "b - result must be 17");
+console.log("result is: ", res(a) , "a - result must be 10");
+console.log("result is: ", res(b), "b - result must be 17");
 console.log("result is: ", res( c ), "c - result must be 10");
 console.log("result is: ", res( d ), "d - result must be 9");
 console.log("result is: ", res( e ), "e - result must be 10");
