@@ -38,8 +38,6 @@ function res( data ){
 
     if( data[i] > right) {
       right = data[i];      
-    } else {
-    	null
     }
 
   	sum = sum - ( data[between] - right ); 
